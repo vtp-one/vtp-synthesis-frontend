@@ -1,0 +1,11 @@
+reflex==0.5.5
+openai>=1.14.0
+
+# missing from sqlalchemy?
+#psycopg2
+
+pymongo
+ollama
+rich
+tqdm
+ipython
